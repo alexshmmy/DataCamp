@@ -1,3 +1,4 @@
 # DataCamp
 
-This is my Python code required for the 22 courses of the "Data Scientist with Python" track in DataCamp.
+This is my Python code for the "Data Scientist with Python" certification from DataCamp.
+See more in: https://www.datacamp.com/home
